@@ -1,4 +1,3 @@
-Elbette! Aşağıda tüm içerikleri birleştirerek sana doğrudan GitHub’a kopyalayıp yapıştırabileceğin şekilde **tek bir profesyonel `README.md` dosyası** hazırladım. Hem teknik detayları hem proje açıklamasını hem de toplumsal yönünü kapsıyor. Direkt kullanıma hazır:
 
 ---
 
