@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # 🏅 Decentralized Fundraising Platform for Young Athletes  
 **Built with Clarity & Stacks**
 
